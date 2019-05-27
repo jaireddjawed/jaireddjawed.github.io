@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e1ada335e4ea5dea52faee621bc48d5e",
+    "revision": "ae6084f504d11b2e253c3179e26773be",
     "url": "/jaireddjawed.github.io/index.html"
   },
   {
-    "revision": "940eeb70052ba36cb658",
+    "revision": "1919336413f86c7a2e83",
     "url": "/jaireddjawed.github.io/static/css/main.b388d55f.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jaireddjawed.github.io/static/js/2.b41502e9.chunk.js"
   },
   {
-    "revision": "940eeb70052ba36cb658",
-    "url": "/jaireddjawed.github.io/static/js/main.aa6b4608.chunk.js"
+    "revision": "1919336413f86c7a2e83",
+    "url": "/jaireddjawed.github.io/static/js/main.23dc3a22.chunk.js"
   },
   {
     "revision": "d539ebeb90a2bf5c395e",
