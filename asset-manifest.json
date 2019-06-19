@@ -1,16 +1,17 @@
 {
   "files": {
     "main.css": "/jaireddjawed.github.io/static/css/main.b388d55f.chunk.css",
-    "main.js": "/jaireddjawed.github.io/static/js/main.39a1fa7e.chunk.js",
-    "main.js.map": "/jaireddjawed.github.io/static/js/main.39a1fa7e.chunk.js.map",
+    "main.js": "/jaireddjawed.github.io/static/js/main.3bd0aca5.chunk.js",
+    "main.js.map": "/jaireddjawed.github.io/static/js/main.3bd0aca5.chunk.js.map",
     "runtime~main.js": "/jaireddjawed.github.io/static/js/runtime~main.975377c5.js",
     "runtime~main.js.map": "/jaireddjawed.github.io/static/js/runtime~main.975377c5.js.map",
-    "static/js/2.b41502e9.chunk.js": "/jaireddjawed.github.io/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/jaireddjawed.github.io/static/js/2.b41502e9.chunk.js.map",
+    "static/js/2.7ad91dd1.chunk.js": "/jaireddjawed.github.io/static/js/2.7ad91dd1.chunk.js",
+    "static/js/2.7ad91dd1.chunk.js.map": "/jaireddjawed.github.io/static/js/2.7ad91dd1.chunk.js.map",
     "index.html": "/jaireddjawed.github.io/index.html",
-    "precache-manifest.711bb11340bb6f460f892fdbc7748398.js": "/jaireddjawed.github.io/precache-manifest.711bb11340bb6f460f892fdbc7748398.js",
+    "precache-manifest.aac4347553812be05d138da92fe4a923.js": "/jaireddjawed.github.io/precache-manifest.aac4347553812be05d138da92fe4a923.js",
     "service-worker.js": "/jaireddjawed.github.io/service-worker.js",
     "static/css/main.b388d55f.chunk.css.map": "/jaireddjawed.github.io/static/css/main.b388d55f.chunk.css.map",
-    "static/media/profile.jpeg": "/jaireddjawed.github.io/static/media/profile.dba8ec50.jpeg"
+    "static/media/profile.jpeg": "/jaireddjawed.github.io/static/media/profile.dba8ec50.jpeg",
+    "static/media/sticks-and-stones.png": "/jaireddjawed.github.io/static/media/sticks-and-stones.94f8eef8.png"
   }
 }
