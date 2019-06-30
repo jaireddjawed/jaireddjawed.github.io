@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "/jaireddjawed.github.io/static/css/main.b388d55f.chunk.css",
-    "main.js": "/jaireddjawed.github.io/static/js/main.4825c755.chunk.js",
-    "main.js.map": "/jaireddjawed.github.io/static/js/main.4825c755.chunk.js.map",
+    "main.css": "/jaireddjawed.github.io/static/css/main.9596d109.chunk.css",
+    "main.js": "/jaireddjawed.github.io/static/js/main.e6d245a2.chunk.js",
+    "main.js.map": "/jaireddjawed.github.io/static/js/main.e6d245a2.chunk.js.map",
     "runtime~main.js": "/jaireddjawed.github.io/static/js/runtime~main.975377c5.js",
     "runtime~main.js.map": "/jaireddjawed.github.io/static/js/runtime~main.975377c5.js.map",
-    "static/js/2.7ad91dd1.chunk.js": "/jaireddjawed.github.io/static/js/2.7ad91dd1.chunk.js",
-    "static/js/2.7ad91dd1.chunk.js.map": "/jaireddjawed.github.io/static/js/2.7ad91dd1.chunk.js.map",
+    "static/js/2.07af2cd4.chunk.js": "/jaireddjawed.github.io/static/js/2.07af2cd4.chunk.js",
+    "static/js/2.07af2cd4.chunk.js.map": "/jaireddjawed.github.io/static/js/2.07af2cd4.chunk.js.map",
     "index.html": "/jaireddjawed.github.io/index.html",
-    "precache-manifest.ed97f90a837ee17875e914eb5d1b82a7.js": "/jaireddjawed.github.io/precache-manifest.ed97f90a837ee17875e914eb5d1b82a7.js",
+    "precache-manifest.06bb18ddebe50b2b2b7e490a37ac9d70.js": "/jaireddjawed.github.io/precache-manifest.06bb18ddebe50b2b2b7e490a37ac9d70.js",
     "service-worker.js": "/jaireddjawed.github.io/service-worker.js",
-    "static/css/main.b388d55f.chunk.css.map": "/jaireddjawed.github.io/static/css/main.b388d55f.chunk.css.map",
+    "static/css/main.9596d109.chunk.css.map": "/jaireddjawed.github.io/static/css/main.9596d109.chunk.css.map",
+    "static/media/powerpaint.png": "/jaireddjawed.github.io/static/media/powerpaint.ca92a92e.png",
     "static/media/profile.jpeg": "/jaireddjawed.github.io/static/media/profile.dba8ec50.jpeg",
-    "static/media/sticks-and-stones.png": "/jaireddjawed.github.io/static/media/sticks-and-stones.94f8eef8.png"
+    "static/media/sticks-and-stones.png": "/jaireddjawed.github.io/static/media/sticks-and-stones.94f8eef8.png",
+    "static/media/twofactorauth.png": "/jaireddjawed.github.io/static/media/twofactorauth.ce047d51.png"
   }
 }
