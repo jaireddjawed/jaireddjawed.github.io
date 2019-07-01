@@ -1,23 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3725e7417d1c17c27bdfd382c057e2dc",
+    "revision": "ae21d273cbf673e9068c5388c25d5460",
     "url": "/jaireddjawed.github.io/index.html"
   },
   {
-    "revision": "ff64548f6a4148c598f3",
-    "url": "/jaireddjawed.github.io/static/css/main.fd394b58.chunk.css"
+    "revision": "e65d719701575b1913c2",
+    "url": "/jaireddjawed.github.io/static/css/main.663bbfe1.chunk.css"
   },
   {
-    "revision": "7db911faebd2f3500565",
-    "url": "/jaireddjawed.github.io/static/js/2.479fc036.chunk.js"
+    "revision": "856ce651700b3311f177",
+    "url": "/jaireddjawed.github.io/static/js/2.527bc477.chunk.js"
   },
   {
-    "revision": "ff64548f6a4148c598f3",
-    "url": "/jaireddjawed.github.io/static/js/main.5417de77.chunk.js"
+    "revision": "e65d719701575b1913c2",
+    "url": "/jaireddjawed.github.io/static/js/main.32fafb5e.chunk.js"
   },
   {
     "revision": "d539ebeb90a2bf5c395e",
     "url": "/jaireddjawed.github.io/static/js/runtime~main.975377c5.js"
+  },
+  {
+    "revision": "7cf01a04333f81ce9e4fa0db27e62d58",
+    "url": "/jaireddjawed.github.io/static/media/Resume.7cf01a04.docx"
+  },
+  {
+    "revision": "042218419dfc8e12615d3a400a3c94bd",
+    "url": "/jaireddjawed.github.io/static/media/flappy-circle.04221841.png"
   },
   {
     "revision": "ca92a92e74058850c778a4d94fe3f826",
