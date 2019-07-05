@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1bf602839fda092558a20251d5fde7de",
+    "revision": "c8211a18d2d731e09c2ee200acf96354",
     "url": "/jaireddjawed.github.io/index.html"
   },
   {
-    "revision": "36ba52eed2f3cd467656",
+    "revision": "0a071ad62d2fb68e14f7",
     "url": "/jaireddjawed.github.io/static/css/main.663bbfe1.chunk.css"
   },
   {
@@ -12,16 +12,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jaireddjawed.github.io/static/js/2.527bc477.chunk.js"
   },
   {
-    "revision": "36ba52eed2f3cd467656",
-    "url": "/jaireddjawed.github.io/static/js/main.30bbd7b1.chunk.js"
+    "revision": "0a071ad62d2fb68e14f7",
+    "url": "/jaireddjawed.github.io/static/js/main.8f5f538f.chunk.js"
   },
   {
     "revision": "d539ebeb90a2bf5c395e",
     "url": "/jaireddjawed.github.io/static/js/runtime~main.975377c5.js"
   },
   {
-    "revision": "45b32346ae289728b25a6a8766d2f06f",
-    "url": "/jaireddjawed.github.io/static/media/Resume.45b32346.pdf"
+    "revision": "fd69676e0ea131374d0ac4d75fc4039b",
+    "url": "/jaireddjawed.github.io/static/media/Resume.fd69676e.pdf"
   },
   {
     "revision": "042218419dfc8e12615d3a400a3c94bd",
